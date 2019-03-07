@@ -46,7 +46,7 @@ Six separate tasks were observed in total including:
 20. User    : Ini maksudnya apa sih?
 21. Saya    : Jadi ini kamu bisa milih beberapa akun yang mungkin kamu suka, jadi untuk kedepannya Reddit bisa menyesuaikan atau merekomendasikan postingan yang mungkin sesuai dengan apa yang kamu sukai.
 22. User    : Ohh.
-(User memilih beberapa akun, masih kebingungan, kemudian akhirnya menemukan tombol "sign up")
+(User memilih beberapa akun, masih kebingungan, kemudian akhirnya menemukan tombol "sign up". Setelah menghabiskan waktu hampir 5 menit untuk mendaftar)
 23. Saya    : Nah. Udah ya, sekarang coba kamu login.
 (User login)
 25. Saya    : Oke. Nah sekarang coba kamu cari postingan tentang "kucing terbang", "flying cat" gitu
@@ -64,9 +64,9 @@ Six separate tasks were observed in total including:
 (User menemukan tombol up-vote)
 35. Saya    : Iya. Berarti kamu menyukai postingan itu ya?
 36. User    : Iya, tapi ini abis ku teken balik lagi. Lhoo. Balik lagi.
-37. Saya    : Oh iya. Mungkin koneksi internetnya. Oke, sekarang coba kamu nambahin comment. Comment "cute" gitu.
+37. Saya    : Oh iya. Mungkin koneksi internetnya. Oke, sekarang coba kamu nambahin comment. Comment "cute" gitu. Terus coba juga kamu like comment orang lain
 38. User    : Oh easy. Udah
-(User menambahkan komentar pada salah satu artikel)
+(User menambahkan komentar kemudian nge up-vote pada salah satu artikel)
 39. Saya    : Oke. Sekarang coba kamu simpen postingan itu di profilmu, kaya di-archive gitu.  
 40. User    : Oh ini ya
 (user menekan tombol save).
@@ -87,7 +87,7 @@ Six separate tasks were observed in total including:
 57. Saya    : Kenapa? Apa yang menurutmu kurang dari Reddit ini? Apa yang menurutmu bisa diperbaiki dari Reddit?
 58. User    : Ini kurang emot-emot. Kurang tombol yang mempresentasikan fungsinya. Kaya ini share tadi. Terus kaya jempol buat menyukai postingan. Kan kalau kaya gini (tombol up, tombol down) kan orang jadi ngga tahu maksudnya apa ini, scroll ta atau apa ta.
 59. Saya    : Ooh gitu ya. Jadi harusnya buttonnya lebih attractive gitu yah. Terus ada lagi?
-60. User    : Iya. Terus ini ni, tampilannya itu terlalu monotone. Banyak text-textnya. Ini kolom komentarnya juga biasa aja, harusnya dikotak-kotakin. Biar lebih rapi, lebih menarik. Ini tu tampilannya terlalu banyak tulisannya. Kan jadi bingung. 
+60. User    : Iya. Terus ini ni, tampilannya itu terlalu monotone. Banyak text-textnya. Ini kolom komentarnya juga biasa aja, harusnya dikotak-kotakin. Biar lebih rapi, lebih menarik. Ini tu tampilannya terlalu banyak tulisannya. Terus kecil-kecil. Kan jadi bingung. 
 61. Saya    : Hmmm gitu yah. Oke. Udah nih, ada lagi?
 62. User    : Iya, udah.
 63. Saya    : Okeee, terima kasih ya *****
@@ -102,8 +102,18 @@ Six separate tasks were observed in total including:
 ![Artifact Model and Annotation](img/artifact2.png)
 
 ### Flow Model
-![Flow Model and Annotation](https://picsum.photos/400/300/?random)
+![Flow Model and Annotation](img/flow1.png)
+
 ### Cultural Model
-![Cultural Model and Annotation](https://picsum.photos/400/300/?random)
+![Cultural Model and Annotation](img/cultural1.png)
+
 ## Do's and Don't's
-Fusce lobortis massa mauris, in aliquam erat aliquet eget. Donec rhoncus venenatis mauris, at commodo odio bibendum ac. Sed consectetur enim justo, vitae maximus eros elementum non. Sed feugiat orci sem, vel faucibus sem aliquet sed. Praesent pulvinar felis eget nisl varius, id lacinia urna pretium. Sed at ornare diam, nec fringilla dolor. In ut gravida sapien, eget varius magna. Morbi lobortis ex eu eleifend finibus. Phasellus eget nulla ullamcorper, ullamcorper purus ac, luctus turpis. Sed volutpat mauris ut erat consectetur, in sagittis erat egestas.
+### Do's
+- The creation of an account must require a valid email address
+- Move the search bar in the top
+- Make "rate" button more noticeable
+
+### Dont's
+- Muted tones and cluttered, monotone text
+- Small, illegible font size
+
