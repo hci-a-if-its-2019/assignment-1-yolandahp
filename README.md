@@ -96,7 +96,11 @@ Six separate tasks were observed in total including:
 
 ## Models and Annotations
 ### Artifact Model
-![Artifact Model and Annotation](https://picsum.photos/400/300/?random)
+![Artifact Model and Annotation](img/artifact1.png)
+
+
+![Artifact Model and Annotation](img/artifact2.png)
+
 ### Flow Model
 ![Flow Model and Annotation](https://picsum.photos/400/300/?random)
 ### Cultural Model
