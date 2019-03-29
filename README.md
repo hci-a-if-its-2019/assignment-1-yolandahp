@@ -120,7 +120,7 @@ Six separate tasks were observed in total including:
 
 # Remarks
 > * Thanks for finishing this assignment completely. Overall, all the sections are well written.
-> * Despite being designed as light-weight social media, your finding about the bad design on upvote/downvote features is a good one. I am looking forward for your design to solve this particular problem.
+> * Despite being designed as light-weight social media, your finding about the bad design on upvote/downvote features is a good one. I am looking forward to your design for solving this particular problem.
 
 | Working Days | Commits before D | Commits after D | Presentation (80%) | Repo (20%) | Total |
 |:------------:|:----------------:|:---------------:|:------------------:|:----------:|:-----:|
